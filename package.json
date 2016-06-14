@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "coverage": "istanbul cover ./test.js"
+  },
+  "name": "coverage",
+  "version": "1.0.0",
+  "main": "test.js",
+  "dependencies": {
+    "istanbul": "^0.4.3"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
